@@ -1,8 +1,8 @@
 [tool.poetry]
 name = "calcweaver"
-version = "0.1.0"
+version = "0.1.1a0"
 description = ""
-authors = ["Vishal Kumar <you@example.com>"]
+authors = ["Vishal Kumar"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
