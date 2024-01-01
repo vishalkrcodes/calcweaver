@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "calcweaver"
+version = "0.1.0"
+description = ""
+authors = ["Vishal Kumar <you@example.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+graphviz = {version = ">=0.20.1", extras = ["all"]}
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
